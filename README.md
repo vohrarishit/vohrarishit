@@ -23,3 +23,8 @@ vohrarishit@gmail.com
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux,docker,fastapi,mongodb,tensorflow,pytorch,aws" />
 </p>
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
