@@ -18,3 +18,8 @@
 
 📫 Reach me:
 vohrarishit@gmail.com
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux,docker,fastapi,mongodb,tensorflow,pytorch,aws" />
+</p>
