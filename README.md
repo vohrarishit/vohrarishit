@@ -30,3 +30,5 @@ vohrarishit@gmail.com
 ![](https://github-readme-stats.vercel.app/api?username=vohrarishit&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vohrarishit&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
